@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [somename]">
+  <listeners>
+    <listener class-name="com.iwaf.framework.testng.TestNGTestListener"/>
+    <listener class-name="com.iwaf.framework.testng.TestSoftAssert"/>
+  </listeners>
+  <test name="GRP-Test_Script(failed)">
+    <groups>
+      <run>
+        <include name="Test_Script"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.tests.SampleTest">
+        <methods>
+          <include name="Login"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.tests.SampleTest -->
+    </classes>
+  </test> <!-- GRP-Test_Script(failed) -->
+</suite> <!-- Failed suite [somename] -->

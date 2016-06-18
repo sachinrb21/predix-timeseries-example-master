@@ -1,0 +1,7 @@
+SearchData : !!com.components.yaml.SearchData {
+ keyword : testing for images,
+ }
+SearchData2 : !!com.components.yaml.SearchData {
+ keyword : abcdeeeeee,
+
+ }

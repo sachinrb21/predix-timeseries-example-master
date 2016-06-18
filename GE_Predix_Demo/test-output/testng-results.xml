@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[[20:48:14] : <b><FONT SIZE="2">Launched Predix Site</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:14] : <b><FONT SIZE="2">Launched Predix Site</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:17] : <b><FONT SIZE="2">Verify the Predix Logo</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:17] : <b><FONT SIZE="2">Enter User Name</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:18] : <b><FONT SIZE="2">Enter Password</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:43] : <b><FONT SIZE="2">Click on Sing In Button</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:43] : <b><FONT SIZE="2">User Logged In</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:44] : <b><FONT SIZE="2">Browsing through the category list to pick an item</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:45] : <b><FONT SIZE="2">Selecting Predix Energy</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:46] : <b><FONT SIZE="2">Selecting Richmod</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:47] : <b><FONT SIZE="2">Selecting Refinery</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:49] : <b><FONT SIZE="2">Selecting Bentley Compressor</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:49] : <b><FONT SIZE="2">Clicking on Bentley Compressor Button</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:55] : <b><FONT SIZE="2">Enter From Date on Calendar</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:48:57] : <b><FONT SIZE="2">Click on Close Button</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:49:02] : <b><FONT SIZE="2">Enter To Date on Calendar</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:49:03] : <b><FONT SIZE="2">Click on Close Button</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:49:08] : <b><FONT SIZE="2">Click on Update Button</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:49:14] : <b><FONT SIZE="2">Clicking on See Live Data</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[[20:49:29] : <b><FONT SIZE="2">Clicking on Play Button</FONT></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[Test completed : Login]]>
+    </line>
+    <line>
+      <![CDATA[<br><a href=..\com.tests.SampleTest.Login.ogg >Video</a>]]>
+    </line>
+  </reporter-output>
+  <suite name="somename" duration-ms="176812" started-at="2016-06-16T03:48:01Z" finished-at="2016-06-16T03:50:58Z">
+    <groups>
+      <group name="Test_Script">
+        <method signature="SampleTest.Login()[pri:0, instance:com.tests.SampleTest@2ac1fdc4]" name="Login" class="com.tests.SampleTest"/>
+      </group> <!-- Test_Script -->
+    </groups>
+    <test name="Default test" duration-ms="176812" started-at="2016-06-16T03:48:01Z" finished-at="2016-06-16T03:50:58Z">
+      <class name="com.tests.SampleTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.tests.SampleTest@2ac1fdc4]" name="setUp" is-config="true" duration-ms="13318" started-at="2016-06-15T20:48:01Z" finished-at="2016-06-15T20:48:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tests.SampleTest.Login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.tests.SampleTest@2ac1fdc4]" name="Login" duration-ms="100529" started-at="2016-06-15T20:48:14Z" description="Log in to Target and Search" finished-at="2016-06-15T20:49:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[20:48:14] : <b><FONT SIZE="2">Launched Predix Site</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:14] : <b><FONT SIZE="2">Launched Predix Site</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:17] : <b><FONT SIZE="2">Verify the Predix Logo</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:17] : <b><FONT SIZE="2">Enter User Name</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:18] : <b><FONT SIZE="2">Enter Password</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:43] : <b><FONT SIZE="2">Click on Sing In Button</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:43] : <b><FONT SIZE="2">User Logged In</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:44] : <b><FONT SIZE="2">Browsing through the category list to pick an item</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:45] : <b><FONT SIZE="2">Selecting Predix Energy</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:46] : <b><FONT SIZE="2">Selecting Richmod</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:47] : <b><FONT SIZE="2">Selecting Refinery</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:49] : <b><FONT SIZE="2">Selecting Bentley Compressor</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:49] : <b><FONT SIZE="2">Clicking on Bentley Compressor Button</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:55] : <b><FONT SIZE="2">Enter From Date on Calendar</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:48:57] : <b><FONT SIZE="2">Click on Close Button</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:49:02] : <b><FONT SIZE="2">Enter To Date on Calendar</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:49:03] : <b><FONT SIZE="2">Click on Close Button</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:49:08] : <b><FONT SIZE="2">Click on Update Button</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:49:14] : <b><FONT SIZE="2">Clicking on See Live Data</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[[20:49:29] : <b><FONT SIZE="2">Clicking on Play Button</FONT></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[Test completed : Login]]>
+            </line>
+            <line>
+              <![CDATA[<br><a href=..\com.tests.SampleTest.Login.ogg >Video</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.tests.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- somename -->
+</testng-results>

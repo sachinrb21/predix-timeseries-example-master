@@ -1,0 +1,6 @@
+<suite name="somename">
+<listeners>
+<listener class-name="com.iwaf.framework.testng.TestNGTestListener"/>
+<listener class-name="com.iwaf.framework.testng.TestSoftAssert"/>
+</listeners>
+</suite>

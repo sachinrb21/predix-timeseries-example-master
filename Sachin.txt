@@ -1,5 +1,1 @@
-To remediate SCCM Client Issue on your below mentioned Desktop
-Asset ID: ITL-HW-DESKT-000000469269
-Asset Location: B36-INFCITY
-Owner: sachinrajbalaji.k
-Cubical ID: BLR073600a028
+Hi
